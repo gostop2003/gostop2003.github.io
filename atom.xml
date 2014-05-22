@@ -4,7 +4,7 @@
   <title><![CDATA[Jack's Blog]]></title>
   <link href="http://gostop2003.github.io/atom.xml" rel="self"/>
   <link href="http://gostop2003.github.io/"/>
-  <updated>2014-05-23T00:59:46+08:00</updated>
+  <updated>2014-05-23T01:12:41+08:00</updated>
   <id>http://gostop2003.github.io/</id>
   <author>
     <name><![CDATA[jack]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ce Shi]]></title>
+    <link href="http://gostop2003.github.io/blog/2014/05/23/ce-shi/"/>
+    <updated>2014-05-23T00:00:00+08:00</updated>
+    <id>http://gostop2003.github.io/blog/2014/05/23/ce-shi</id>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &ldquo;测试&rdquo;
+date: 2014-05-23 01:09:23 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>gostop2003.github.io测试-</p>
+]]></content>
+  </entry>
   
 </feed>
