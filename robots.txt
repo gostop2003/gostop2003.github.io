@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gostop2003.github.io/sitemap.xml 
